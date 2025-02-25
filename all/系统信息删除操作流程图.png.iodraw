@@ -462,7 +462,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lSmBOpB7qI8_Q0pTZmU4" name="第 4 页">
-    <mxGraphModel dx="434" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -475,8 +475,20 @@
         <mxCell id="h6fgqcT6Racy3Y05ykIH-4" value="登录成功？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="310" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h6fgqcT6Racy3Y05ykIH-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h6fgqcT6Racy3Y05ykIH-5" value="进入主页" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h6fgqcT6Racy3Y05ykIH-6" value="显示错误信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h6fgqcT6Racy3Y05ykIH-7" value="用户选择删除信息操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="570" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="h6fgqcT6Racy3Y05ykIH-8" value="提供删除确认界面" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h6fgqcT6Racy3Y05ykIH-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
