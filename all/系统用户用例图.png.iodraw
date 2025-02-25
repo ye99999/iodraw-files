@@ -277,9 +277,6 @@
         <mxCell id="KHTBhL5XZeRFbPNPhQgE-17" value="提供输入页面" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="650" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KHTBhL5XZeRFbPNPhQgE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KHTBhL5XZeRFbPNPhQgE-19" target="KHTBhL5XZeRFbPNPhQgE-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KHTBhL5XZeRFbPNPhQgE-19" value="确认删除？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="620" width="80" height="80" as="geometry" />
         </mxCell>
@@ -302,7 +299,7 @@
           <mxGeometry x="625" y="528" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KHTBhL5XZeRFbPNPhQgE-27" value="保存新信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="319" y="760" width="95" height="40" as="geometry" />
+          <mxGeometry x="320" y="760" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KHTBhL5XZeRFbPNPhQgE-28" value="更新修改" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="760" width="95" height="40" as="geometry" />
@@ -312,6 +309,12 @@
         </mxCell>
         <mxCell id="KHTBhL5XZeRFbPNPhQgE-30" value="返回主页" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="930" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KHTBhL5XZeRFbPNPhQgE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.868;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KHTBhL5XZeRFbPNPhQgE-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="461.56" y="690" as="sourcePoint" />
+            <mxPoint x="245.00000000000006" y="787.5999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
