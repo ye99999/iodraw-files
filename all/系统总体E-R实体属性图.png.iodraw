@@ -851,7 +851,34 @@
           <mxGeometry x="260" y="175" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mOd1py6cBYt_5KQLCDfJ-20" value="活动" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-21" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="537" y="-20" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-22" value="专业班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-23" value="照片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737" y="40" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-24" value="教师电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="747" y="90" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-25" value="教师姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="457" y="70" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-26" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="20" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-27" value="学院" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617" y="-30" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-28" value="活动名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="125" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-29" value="教师姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="747" y="140" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
