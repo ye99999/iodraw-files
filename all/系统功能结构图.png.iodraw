@@ -597,8 +597,8 @@
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-6" value="&lt;blockquote&gt;首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="45" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-7" value="&lt;blockquote&gt;个人中心修改密码参加活动&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="10" width="110" height="130" as="geometry" />
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-7" value="&lt;blockquote&gt;个人中心修改密码参加活动&lt;br&gt;活动报告&lt;br&gt;举报记录&lt;br&gt;我的发布&lt;br&gt;我的收藏&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rotation=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="460" y="10" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
