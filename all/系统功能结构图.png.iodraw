@@ -665,19 +665,19 @@
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-31" value="留言板管理" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-40" y="700" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-32" value="&lt;blockquote&gt;系统首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-32" value="论坛管理" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="20" y="700" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-37" value="&lt;blockquote&gt;系统首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-37" value="论坛分类" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="81" y="700" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-38" value="&lt;blockquote&gt;系统首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-38" value="举报记录" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="141" y="700" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-39" value="&lt;blockquote&gt;系统首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-39" value="系统管理" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="201" y="700" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-40" value="&lt;blockquote&gt;系统首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-40" value="个人中心" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="261" y="700" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-41" value="&lt;blockquote&gt;系统首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
