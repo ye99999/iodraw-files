@@ -792,30 +792,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EIdVCd-RTJdGiG5bePLH" name="第 6 页">
-    <mxGraphModel dx="1385" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1385" dy="1527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mOd1py6cBYt_5KQLCDfJ-1" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="30" width="80" height="50" as="geometry" />
+          <mxGeometry x="-40" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mOd1py6cBYt_5KQLCDfJ-2" value="学院" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="30" width="80" height="50" as="geometry" />
+          <mxGeometry x="40" y="-10" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mOd1py6cBYt_5KQLCDfJ-3" value="专业班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="30" width="80" height="50" as="geometry" />
+          <mxGeometry x="110" y="20" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mOd1py6cBYt_5KQLCDfJ-4" value="照片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="70" width="80" height="50" as="geometry" />
+          <mxGeometry x="160" y="60" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mOd1py6cBYt_5KQLCDfJ-5" value="教师账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="150" width="80" height="50" as="geometry" />
+          <mxGeometry x="-135" y="140" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mOd1py6cBYt_5KQLCDfJ-6" value="教师电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="120" width="80" height="50" as="geometry" />
+          <mxGeometry x="170" y="110" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mOd1py6cBYt_5KQLCDfJ-7" value="教师姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="90" width="80" height="50" as="geometry" />
+          <mxGeometry x="-120" y="90" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mOd1py6cBYt_5KQLCDfJ-8" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="40" width="80" height="50" as="geometry" />
@@ -848,7 +848,10 @@
           <mxGeometry x="140" y="680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mOd1py6cBYt_5KQLCDfJ-19" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="180" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="175" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-20" value="活动" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
