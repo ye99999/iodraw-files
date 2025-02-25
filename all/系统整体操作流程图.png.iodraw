@@ -372,8 +372,17 @@
         <mxCell id="hGvbwiqGQwZFnSmT-Swn-7" value="用户选择添加信息操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="610" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="hGvbwiqGQwZFnSmT-Swn-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hGvbwiqGQwZFnSmT-Swn-9" value="提供信息输入界面" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGvbwiqGQwZFnSmT-Swn-11" value="提供用户选择其他操作或退出" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGvbwiqGQwZFnSmT-Swn-12" value="用户输入信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGvbwiqGQwZFnSmT-Swn-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1180" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
