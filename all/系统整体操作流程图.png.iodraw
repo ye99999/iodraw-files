@@ -363,6 +363,18 @@
         <mxCell id="hGvbwiqGQwZFnSmT-Swn-4" value="登录成功？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="290" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="hGvbwiqGQwZFnSmT-Swn-5" value="进入主页" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGvbwiqGQwZFnSmT-Swn-6" value="显示错误信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGvbwiqGQwZFnSmT-Swn-7" value="用户选择添加信息操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="610" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hGvbwiqGQwZFnSmT-Swn-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
