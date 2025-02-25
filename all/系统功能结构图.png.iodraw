@@ -585,14 +585,34 @@
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-1" value="&lt;blockquote&gt;首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="25" y="45" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_0O8sRjz5K1AbvE8l4Ew-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-2" value="&lt;blockquote&gt;&lt;font face=&quot;Helvetica&quot;&gt;课外活动&lt;/font&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;verticalAlign=middle;align=center;imageAlign=left;fontFamily=Verdana;overflow=visible;labelPosition=center;verticalLabelPosition=middle;direction=east;flipH=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="45" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_0O8sRjz5K1AbvE8l4Ew-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="196" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-3" value="&lt;blockquote&gt;首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="136" y="45" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_0O8sRjz5K1AbvE8l4Ew-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="251" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-4" value="&lt;blockquote&gt;首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="191" y="45" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_0O8sRjz5K1AbvE8l4Ew-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-5" value="&lt;blockquote&gt;首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="248" y="45" width="120" height="50" as="geometry" />
@@ -608,8 +628,16 @@
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-7" value="&lt;blockquote&gt;个人中心修改密码参加活动&lt;br&gt;活动报告&lt;br&gt;举报记录&lt;br&gt;我的发布&lt;br&gt;我的收藏&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rotation=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="5" width="130" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_0O8sRjz5K1AbvE8l4Ew-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-9" value="前台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-18" value="基于Spring Boot的活动信息发布管理系统的设计与实现" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
