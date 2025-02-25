@@ -582,7 +582,7 @@
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-1" value="首页" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="25" y="45" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-2" value="课外活动" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;verticalAlign=middle;align=center;imageAlign=left;" vertex="1" parent="1">
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-2" value="&lt;font face=&quot;Helvetica&quot;&gt;课外活动&lt;/font&gt;" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;verticalAlign=middle;align=center;imageAlign=left;fontFamily=Verdana;overflow=visible;" vertex="1" parent="1">
           <mxGeometry x="80" y="45" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-3" value="首页" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;" vertex="1" parent="1">
