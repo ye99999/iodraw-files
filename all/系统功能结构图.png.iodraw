@@ -575,7 +575,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MRJuP75zlZC0H0Uu-OGj" name="第 5 页">
-    <mxGraphModel dx="1002" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="460" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -596,6 +596,9 @@
         </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-6" value="&lt;blockquote&gt;首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="45" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-7" value="&lt;blockquote&gt;个人中心修改密码参加活动&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="10" width="110" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
