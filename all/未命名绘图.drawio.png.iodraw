@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="24.7.17">
   <diagram name="第 1 页" id="qbenKCE1BCAc8g5FdfC6">
-    <mxGraphModel dx="1235" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="913" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,6 +117,16 @@
             <mxPoint x="330" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <object label="教师" id="X_He7stbbAaZ0cIQR0iQ-42">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=admin;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dadmin;" vertex="1" parent="1">
+            <mxGeometry x="690" y="215" width="77.78" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="学生" id="X_He7stbbAaZ0cIQR0iQ-43">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=admin;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dadmin;" vertex="1" parent="1">
+            <mxGeometry x="640" y="670" width="127.78" height="230" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
