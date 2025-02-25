@@ -692,8 +692,16 @@
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-44" value="教师" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-340" y="700" width="50" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_0O8sRjz5K1AbvE8l4Ew-48" target="_0O8sRjz5K1AbvE8l4Ew-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-48" value="&lt;blockquote&gt;系统首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="385" y="700" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_0O8sRjz5K1AbvE8l4Ew-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="471.1428571428571" y="680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-49" value="&lt;blockquote&gt;课外活动&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="446" y="700" width="50" height="120" as="geometry" />
@@ -701,7 +709,7 @@
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-50" value="&lt;blockquote&gt;参加活动&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="506" y="700" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-51" value="活动报告" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-51" value="&lt;blockquote&gt;活动报告&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="566" y="700" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-52" value="&lt;blockquote&gt;个人中心&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
