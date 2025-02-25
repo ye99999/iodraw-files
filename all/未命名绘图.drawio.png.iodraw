@@ -9,7 +9,7 @@
         </mxCell>
         <object label="管理员" id="X_He7stbbAaZ0cIQR0iQ-2">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=admin;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dadmin;" vertex="1" parent="1">
-            <mxGeometry x="80" y="190" width="127.78" height="230" as="geometry" />
+            <mxGeometry x="40" y="355" width="127.78" height="230" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="X_He7stbbAaZ0cIQR0iQ-3" value="教师" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
