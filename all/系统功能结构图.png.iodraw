@@ -575,7 +575,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MRJuP75zlZC0H0Uu-OGj" name="第 5 页">
-    <mxGraphModel dx="955" dy="160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1529" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -669,18 +669,15 @@
           <mxGeometry x="20" y="700" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-37" value="&lt;blockquote&gt;论坛分类&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="81" y="700" width="50" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_0O8sRjz5K1AbvE8l4Ew-38" target="_0O8sRjz5K1AbvE8l4Ew-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="80" y="700" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-38" value="&lt;blockquote&gt;举报记录&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="141" y="700" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-39" value="系统管理" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-39" value="&lt;blockquote&gt;系统管理&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="201" y="700" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-40" value="个人中心" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-40" value="&lt;blockquote&gt;个人中心&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="261" y="700" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-41" value="&lt;blockquote&gt;系统首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
@@ -694,6 +691,21 @@
         </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-44" value="教师" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-340" y="700" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-48" value="&lt;blockquote&gt;论坛分类&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="369" y="700" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-49" value="&lt;blockquote&gt;举报记录&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="430" y="700" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-50" value="&lt;blockquote&gt;系统管理&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="700" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-51" value="&lt;blockquote&gt;个人中心&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="550" y="700" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-52" value="&lt;blockquote&gt;个人中心&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="610" y="700" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
