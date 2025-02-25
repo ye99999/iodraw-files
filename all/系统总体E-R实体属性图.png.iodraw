@@ -820,8 +820,26 @@
         <mxCell id="mOd1py6cBYt_5KQLCDfJ-8" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="40" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mOd1py6cBYt_5KQLCDfJ-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-10" value="教师" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-11" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-12" value="管理员" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-13" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-14" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="410" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-15" value="头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="470" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mOd1py6cBYt_5KQLCDfJ-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="530" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
