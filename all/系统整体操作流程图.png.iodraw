@@ -332,7 +332,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KHTBhL5XZeRFbPNPhQgE-34" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="688" width="40" height="30" as="geometry" />
+          <mxGeometry x="390" y="688" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KHTBhL5XZeRFbPNPhQgE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.377;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KHTBhL5XZeRFbPNPhQgE-17" target="KHTBhL5XZeRFbPNPhQgE-27">
           <mxGeometry relative="1" as="geometry" />
