@@ -598,7 +598,7 @@
             <mxPoint x="-38" y="259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-3" value="&lt;p&gt;论坛&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-3" value="&lt;p&gt;论坛&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;flipV=0;flipH=0;verticalAlign=middle;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="-98" y="154" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="_0O8sRjz5K1AbvE8l4Ew-4" edge="1">
