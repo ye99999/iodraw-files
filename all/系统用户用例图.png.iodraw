@@ -575,7 +575,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MRJuP75zlZC0H0Uu-OGj" name="系统功能结构图">
-    <mxGraphModel dx="1365" dy="295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -625,12 +625,12 @@
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-6" value="&lt;blockquote&gt;首页&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-7" value="&lt;blockquote&gt;个人中心修改密码参加活动&lt;br&gt;活动报告&lt;br&gt;举报记录&lt;br&gt;我的发布&lt;br&gt;我的收藏&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rotation=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="275" width="130" height="130" as="geometry" />
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-7" value="&lt;blockquote style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;个人中心修改密码参加活动&lt;br&gt;活动报告&lt;br&gt;举报记录&lt;br&gt;我的发布&lt;br&gt;我的收藏&lt;/font&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rotation=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="270" width="135" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="_0O8sRjz5K1AbvE8l4Ew-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="150" as="targetPoint" />
+            <mxPoint x="10" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_0O8sRjz5K1AbvE8l4Ew-9" edge="1">
