@@ -617,7 +617,7 @@
         <mxCell id="_0O8sRjz5K1AbvE8l4Ew-5" value="&lt;div align=&quot;center&quot; style=&quot;font-size: 15px;&quot;&gt;留言板&lt;/div&gt;" style="whiteSpace=wrap;html=1;rotation=90;horizontal=0;align=center;textDirection=vertical-lr;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="14" y="154" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;" parent="1" source="_0O8sRjz5K1AbvE8l4Ew-6" edge="1">
+        <mxCell id="_0O8sRjz5K1AbvE8l4Ew-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;strokeColor=none;" parent="1" source="_0O8sRjz5K1AbvE8l4Ew-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="226" y="179" as="targetPoint" />
           </mxGeometry>
