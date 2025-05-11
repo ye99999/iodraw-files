@@ -361,7 +361,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hGvbwiqGQwZFnSmT-Swn-2" value="用户登录" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hGvbwiqGQwZFnSmT-Swn-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hGvbwiqGQwZFnSmT-Swn-4" target="hGvbwiqGQwZFnSmT-Swn-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
