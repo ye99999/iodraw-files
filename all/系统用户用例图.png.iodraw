@@ -1295,6 +1295,9 @@
             <mxPoint x="260" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lOS1n8diouzDa-NEPCI--1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;N&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="195" y="228" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
