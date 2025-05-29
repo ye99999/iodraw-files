@@ -501,7 +501,7 @@
         <mxCell id="h6fgqcT6Racy3Y05ykIH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="h6fgqcT6Racy3Y05ykIH-7" target="h6fgqcT6Racy3Y05ykIH-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h6fgqcT6Racy3Y05ykIH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h6fgqcT6Racy3Y05ykIH-7" target="h6fgqcT6Racy3Y05ykIH-9" edge="1">
+        <mxCell id="h6fgqcT6Racy3Y05ykIH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h6fgqcT6Racy3Y05ykIH-7" target="h6fgqcT6Racy3Y05ykIH-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-7" value="用户选择删除信息操作" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -511,25 +511,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-8" value="提供删除确认界面" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="-90" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h6fgqcT6Racy3Y05ykIH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="h6fgqcT6Racy3Y05ykIH-9" target="h6fgqcT6Racy3Y05ykIH-5" edge="1">
+        <mxCell id="h6fgqcT6Racy3Y05ykIH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="h6fgqcT6Racy3Y05ykIH-9" target="h6fgqcT6Racy3Y05ykIH-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-9" value="提供用户选择其他操作或退出" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="h6fgqcT6Racy3Y05ykIH-10" target="h6fgqcT6Racy3Y05ykIH-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-10" value="用户确认删除？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="970" width="100" height="100" as="geometry" />
+          <mxGeometry x="-80" y="750" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="h6fgqcT6Racy3Y05ykIH-11" target="h6fgqcT6Racy3Y05ykIH-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-11" value="取消删除操作" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="h6fgqcT6Racy3Y05ykIH-12" target="h6fgqcT6Racy3Y05ykIH-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -553,13 +553,13 @@
           <mxGeometry x="-90" y="1090" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-22" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1020" width="40" height="30" as="geometry" />
+          <mxGeometry x="25" y="1029" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-26" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="620" width="40" height="30" as="geometry" />
+          <mxGeometry x="-70" y="591" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-27" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="50" y="728" width="40" height="30" as="geometry" />
+          <mxGeometry x="30" y="540" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="h6fgqcT6Racy3Y05ykIH-4" target="h6fgqcT6Racy3Y05ykIH-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
