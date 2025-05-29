@@ -347,7 +347,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wloRXcNcf4ihs8wYZZ50" name="系统信息添加操作流程图">
-    <mxGraphModel dx="1050" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -464,7 +464,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lSmBOpB7qI8_Q0pTZmU4" name="系统信息删除操作流程图">
-    <mxGraphModel dx="1877" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -535,18 +535,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-12" value="系统执行伤处操作" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="-90" y="886" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h6fgqcT6Racy3Y05ykIH-13" target="h6fgqcT6Racy3Y05ykIH-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-13" value="显示删除成功信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="-90" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-14" value="返回主页" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="-90" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h6fgqcT6Racy3Y05ykIH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.41;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="h6fgqcT6Racy3Y05ykIH-10" target="h6fgqcT6Racy3Y05ykIH-12" edge="1">
+        <mxCell id="h6fgqcT6Racy3Y05ykIH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h6fgqcT6Racy3Y05ykIH-10" target="h6fgqcT6Racy3Y05ykIH-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h6fgqcT6Racy3Y05ykIH-19" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
